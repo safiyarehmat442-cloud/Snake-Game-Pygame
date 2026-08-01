@@ -1,4 +1,4 @@
-# Simple Snake Game
+# Feature-Rich Snake Game
 
 This project is a simple Snake Game developed using Python and Pygame.
 
